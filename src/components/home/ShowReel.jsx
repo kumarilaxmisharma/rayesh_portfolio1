@@ -6,13 +6,13 @@ const ShowReel = () => {
       <div className="flex flex-col items-center justify-center">
       {/* <h1 className="text-4xl font-bold mb-4 text-gray-800 ">ShowReel Video</h1> */}
       <video 
-        src='/src/assets/videos/showreel.mp4'
+        src='/assets/videos/showreel.mp4'
         autoPlay={true}
         loop={true}
         muted={true}
         playsInline={true}
         preload="auto"
-        poster="/src/assets/showreel_thumbnail.png"
+        poster="/assets/showreel_thumbnail.png"
         className="w-full max-full rounded-xl shadow-lg"
       />
     </div>

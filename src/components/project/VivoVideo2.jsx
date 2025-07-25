@@ -7,7 +7,7 @@ const VivoVideo2 = () => {
       {/* <h1 className="text-4xl font-bold mb-4 text-gray-800 ">ShowReel Video</h1> */}
       <video 
 
-        src='/src/assets/videos/vivo2.mp4'
+        src='/assets/videos/vivo2.mp4'
     
         //Make it pause when user scrolls past it
         autoPlay={true}
@@ -16,7 +16,7 @@ const VivoVideo2 = () => {
         playsInline={true}
         preload="auto"
         
-        poster="/src/assets/images/vivobts2/vivo_thumbnail2.png"
+        poster="/assets/images/vivobts2/vivo_thumbnail2.png"
         className="w-full max-full rounded-lg shadow-lg"
       />
     </div>

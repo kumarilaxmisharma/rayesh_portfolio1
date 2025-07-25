@@ -6,41 +6,41 @@ export default function MetalDetail() {
 
   const campaignData = {
     title: "Metal Strings Short Film",
-    mainImage: "/src/assets/images/mentaldetail/mentalPoster.jpg",
+    mainImage: "/public/assets/images/mentaldetail/mentalPoster.jpg",
     about: "“METAL STRINGS” is a 25-minute music documentary that explores Cambodia’s underground metal scene through the story of the band Reign In Slumber. The film captures their emotional journey, creative struggles, and the challenges of keeping metal music alive in a society where it's often misunderstood.",
     work: "As a cinematographer on this project, I focused on translating the raw passion and energy of the band into powerful, immersive visuals. From live performances to intimate moments, my camera work aimed to reflect both the intensity and vulnerability of the scene. The film was screened at the Cloud Metal Film Fest and later featured at the Cambodia International Film Festival, marking a milestone in my journey as a visual storyteller.",
     gallery: [
       {
         id: 1,
-        image: "/src/assets/images/mentaldetail/mentald1.png"
+        image: "/assets/images/mentaldetail/mentald1.png"
       },
       {
         id: 2,
-        image: "/src/assets/images/mentaldetail/mentald2.png"
+        image: "/assets/images/mentaldetail/mentald2.png"
       },
       {
         id: 3,
-        image: "/src/assets/images/mentaldetail/mentald3.png"
+        image: "/assets/images/mentaldetail/mentald3.png"
       },
       {
         id: 4,
-        image: "/src/assets/images/mentaldetail/mentald4.png"
+        image: "/assets/images/mentaldetail/mentald4.png"
       },
       {
         id: 5,
-        image: "/src/assets/images/mentaldetail/mentald5.png"
+        image: "/assets/images/mentaldetail/mentald5.png"
       },
       {
         id: 6,
-        image: "/src/assets/images/mentaldetail/mentald6.png"
+        image: "/assets/images/mentaldetail/mentald6.png"
       },
       {
         id: 7,
-        image: "/src/assets/images/mentaldetail/mentald7.png"
+        image: "/assets/images/mentaldetail/mentald7.png"
       },
       {
         id: 8,
-        image: "/src/assets/images/mentaldetail/mentald8.png"
+        image: "/assets/images/mentaldetail/mentald8.png"
       }
     ],
     

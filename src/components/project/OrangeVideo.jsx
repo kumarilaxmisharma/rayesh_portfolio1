@@ -7,7 +7,7 @@ const OrangeVideo = () => {
         {/* <h1 className="text-4xl font-bold mb-4 text-gray-800 ">ShowReel Video</h1> */}
         <video 
 
-          src='/src/assets/videos/orange.mp4'
+          src='/assets/videos/orange.mp4'
           autoPlay={true}
           loop={true}
           muted={true}

@@ -14,7 +14,7 @@ const AboutMe = () => {
           <div className="relative">
             <div className="overflow-hidden max-w-md">
               <img 
-                src="/src/assets/images/profile1.png" 
+                src="/assets/images/profile1.png" 
                 alt="Rayesh Nand Sharma"
                 className="w-[340px] object-cover"
               />
@@ -38,11 +38,11 @@ const AboutMe = () => {
               <div>
                 <h3 className="text-2xl font-bold text-gray-200 mb-4">Software</h3>
                 <p className="text-gray-300 text-sm leading-relaxed">
-                  <img src="/src/assets/images/software/davinci.png" alt="DaVinci Resolve" className="w-10 inline-block mr-2" />
-                  <img src="/src/assets/images/software/adobe.png" alt="DaVinci Resolve" className="w-9 inline-block mr-2" />
-                  <img src="/src/assets/images/software/lightroom.png" alt="DaVinci Resolve" className="w-9 inline-block mr-2" />
-                  <img src="/src/assets/images/software/siduslink.png" alt="DaVinci Resolve" className="w-8 inline-block " />
-                  <img src="/src/assets/images/software/canva.png" alt="DaVinci Resolve" className="w-14 inline-block mr-2" />
+                  <img src="/assets/images/software/davinci.png" alt="DaVinci Resolve" className="w-10 inline-block mr-2" />
+                  <img src="/assets/images/software/adobe.png" alt="DaVinci Resolve" className="w-9 inline-block mr-2" />
+                  <img src="/assets/images/software/lightroom.png" alt="DaVinci Resolve" className="w-9 inline-block mr-2" />
+                  <img src="/assets/images/software/siduslink.png" alt="DaVinci Resolve" className="w-8 inline-block " />
+                  <img src="/assets/images/software/canva.png" alt="DaVinci Resolve" className="w-14 inline-block mr-2" />
 
                 </p>
               </div>

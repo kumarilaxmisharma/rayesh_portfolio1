@@ -7,13 +7,13 @@ const VivoVideo1 = () => {
       {/* <h1 className="text-4xl font-bold mb-4 text-gray-800 ">ShowReel Video</h1> */}
       <video 
 
-        src='/src/assets/videos/vivo1.mp4'
+        src='/assets/videos/vivo1.mp4'
         autoPlay={true}
         loop={true}
         muted={true}
         playsInline={true}
         preload="auto"
-        poster="/src/assets/images/vivobts1/vivo_thumbnail1.png"
+        poster="/assets/images/vivobts1/vivo_thumbnail1.png"
         className="w-full max-full rounded-lg shadow-lg"
       />
     </div>

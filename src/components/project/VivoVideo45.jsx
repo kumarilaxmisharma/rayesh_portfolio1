@@ -8,13 +8,13 @@ const VivoVideo45 = () => {
           {/* Video 1 */}
           <div className="flex-1">
             <video
-              src="/src/assets/videos/vivo4.mp4"
+              src="/assets/videos/vivo4.mp4"
               autoPlay={true}
               loop={true}
               muted={true}
               playsInline={true}
               preload="auto"
-              // poster="/src/assets/images/sinhan/sinhan_thumbnail1.png"
+              // poster="/assets/images/sinhan/sinhan_thumbnail1.png"
               className="w-full rounded-lg shadow-lg"
             />
           </div>
@@ -22,13 +22,13 @@ const VivoVideo45 = () => {
           {/* Video 2 */}
           <div className="flex-1">
             <video
-              src="/src/assets/videos/vivo5.mp4"
+              src="/assets/videos/vivo5.mp4"
               autoPlay={true}
               loop={true}
               muted={true}
               playsInline={true}
               preload="auto"
-              // poster="/src/assets/images/sinhan/sinhan_thumbnail2.png"
+              // poster="/assets/images/sinhan/sinhan_thumbnail2.png"
               className="w-full rounded-lg shadow-lg"
             />
           </div>

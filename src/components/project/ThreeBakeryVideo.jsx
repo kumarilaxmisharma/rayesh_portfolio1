@@ -7,7 +7,7 @@ const ThreeBakeryVideo = () => {
       {/* <h1 className="text-4xl font-bold mb-4 text-gray-800 ">ShowReel Video</h1> */}
       <video 
 
-        src='/src/assets/videos/threebakery.mp4'
+        src='/assets/videos/threebakery.mp4'
     
         //Make it pause when user scrolls past it
         autoPlay={true}

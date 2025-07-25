@@ -10,7 +10,7 @@ const Software = () => {
           {/* Premiere Pro Icon */}
           <div className="flex-shrink-0">
             <img
-              src="/src/assets/images/software/adobe.png"
+              src="/assets/images/software/adobe.png"
               alt="Premiere Pro"
               className="w-48 h-48"
             />
@@ -36,7 +36,7 @@ const Software = () => {
           {/* DaVinci Resolve Icon */}
           <div className="flex-shrink-0">
             <img
-              src="/src/assets/images/software/davinci.png"
+              src="/assets/images/software/davinci.png"
               alt="DaVinci Resolve"
               className="w-52 h-52  "
             />

@@ -5,52 +5,52 @@ const Gallery = () => {
   const galleryImages = [
     {
       id: 1,
-      src: "/src/assets/images/vivobts1/vivo.png",
+      src: "/assets/images/vivobts1/vivo.png",
       alt: "Behind the scenes filming"
     },
     {
       id: 2,
-      src: "/src/assets/images/vivobts1/vivo1.png",
+      src: "/assets/images/vivobts1/vivo1.png",
       alt: "Camera equipment setup"
     },
     {
       id: 3,
-      src: "/src/assets/images/vivobts1/vivo4.png",
+      src: "/assets/images/vivobts1/vivo4.png",
       alt: "Film production"
     },
     {
       id: 4,
-      src: "/src/assets/images/vivobts1/vivo5.png",
+      src: "/assets/images/vivobts1/vivo5.png",
       alt: "Director at work"
     },
     {
       id: 5,
-      src: "/src/assets/images/vivobts1/vivo6.png",
+      src: "/assets/images/vivobts1/vivo6.png",
       alt: "Film crew working"
     },
     {
       id: 6,
-      src: "/src/assets/images/vivobts1/vivo7.png",
+      src: "/assets/images/vivobts1/vivo7.png",
       alt: "Beach filming location"
     },
     {
       id: 7,
-      src: "/src/assets/images/vivobts1/vivo8.png",
+      src: "/assets/images/vivobts1/vivo8.png",
       alt: "Professional camera work"
     },
     {
       id: 8,
-      src: "/src/assets/images/vivobts1/vivo9.png",
+      src: "/assets/images/vivobts1/vivo9.png",
       alt: "Film set equipment"
     },
     {
       id: 9,
-      src: "/src/assets/images/vivobts1/vivo3.png",
+      src: "/assets/images/vivobts1/vivo3.png",
       alt: "Film set equipment"
     },
     {
       id: 10,
-      src: "/src/assets/images/vivobts1/vivo2.png",
+      src: "/assets/images/vivobts1/vivo2.png",
       alt: "Film set equipment"
     }
   ];

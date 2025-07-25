@@ -6,7 +6,7 @@ const HomePage = () => {
     <div className="min-h-screen bg-cover bg-center bg-black px-8">
       {/* Background image */}
       <div className="fixed inset-0 z-0 bg-cover bg-center bg-no-repeat" 
-        style={{ backgroundImage: "url('/src/assets/images/006.png')" }}>
+        style={{ backgroundImage: "url('/assets/images/006.png')" }}>
       </div>
       
       <div className="w-full h-screen flex items-center justify-center relative z-10">
@@ -28,13 +28,13 @@ const HomePage = () => {
           
           {/* Company Logos - Now below the name */}
           <div className="flex flex-wrap justify-center items-center gap-12 opacity-80 mt-30">
-            <img src="/src/assets/images/companies/vivo1.png" alt="Client 1" className="w-24 h-24 object-contain" />
-            <img src="/src/assets/images/companies/8teen1.png" alt="Client 2" className="w-24 h-24 object-contain" />
-            <img src="/src/assets/images/companies/3bakery1.png" alt="Client 3" className="w-24 h-24 object-contain" />
-            <img src="/src/assets/images/companies/sinhan1.png" alt="Client 3" className="w-24 h-24 object-contain" />
-            <img src="/src/assets/images/companies/sony.png" alt="Client 3" className="w-24 h-24 object-contain" />
-            <img src="/src/assets/images/companies/anti-archive.png" alt="Client 3" className="w-24 h-24 object-contain" />
-            <img src="/src/assets/images/companies/aputure.png" alt="Client 3" className="w-24 h-24 object-contain" />
+            <img src="/assets/images/companies/vivo1.png" alt="Client 1" className="w-24 h-24 object-contain" />
+            <img src="/assets/images/companies/8teen1.png" alt="Client 2" className="w-24 h-24 object-contain" />
+            <img src="/assets/images/companies/3bakery1.png" alt="Client 3" className="w-24 h-24 object-contain" />
+            <img src="/assets/images/companies/sinhan1.png" alt="Client 3" className="w-24 h-24 object-contain" />
+            <img src="/assets/images/companies/sony.png" alt="Client 3" className="w-24 h-24 object-contain" />
+            <img src="/assets/images/companies/anti-archive.png" alt="Client 3" className="w-24 h-24 object-contain" />
+            <img src="/assets/images/companies/aputure.png" alt="Client 3" className="w-24 h-24 object-contain" />
           </div>
         </div>
 

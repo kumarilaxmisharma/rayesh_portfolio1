@@ -3,47 +3,47 @@ import React from 'react'
 const galleryImages = [
     {
       id: 1,
-      src: "/src/assets/images/mentalbts/mentalbts1.jpg",
+      src: "/assets/images/mentalbts/mentalbts1.jpg",
       alt: "Behind the scenes filming"
     },
     {
       id: 2,
-      src: "/src/assets/images/mentalbts/mentalbts2.jpg",
+      src: "/assets/images/mentalbts/mentalbts2.jpg",
       alt: "Camera equipment setup"
     },
     {
       id: 3,
-      src: "/src/assets/images/mentalbts/mentalbts3.jpg",
+      src: "/assets/images/mentalbts/mentalbts3.jpg",
       alt: "Film production"
     },
     {
       id: 4,
-      src: "/src/assets/images/mentalbts/mentalbts4.jpg",
+      src: "/assets/images/mentalbts/mentalbts4.jpg",
       alt: "Director at work"
     },
     {
       id: 5,
-      src: "/src/assets/images/mentalbts/mentalbts5.jpg",
+      src: "/assets/images/mentalbts/mentalbts5.jpg",
       alt: "Film crew working"
     },
     {
       id: 6,
-      src: "/src/assets/images/mentalbts/mentalbts6.jpg",
+      src: "/assets/images/mentalbts/mentalbts6.jpg",
       alt: "Beach filming location"
     },
     {
       id: 7,
-      src: "/src/assets/images/mentalbts/mentalbts7.jpg",
+      src: "/assets/images/mentalbts/mentalbts7.jpg",
       alt: "Beach filming location"
     },
     {
       id: 8,
-      src: "/src/assets/images/mentalbts/mentalbts8.png",
+      src: "/assets/images/mentalbts/mentalbts8.png",
       alt: "Beach filming location"
     },
     {
       id: 8,
-      src: "/src/assets/images/mentalbts/mentalbts.png",
+      src: "/assets/images/mentalbts/mentalbts.png",
       alt: "Beach filming location"
     }
     

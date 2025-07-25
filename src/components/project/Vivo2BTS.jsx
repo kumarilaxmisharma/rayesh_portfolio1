@@ -3,37 +3,37 @@ import React from 'react'
 const galleryImages = [
     {
       id: 1,
-      src: "/src/assets/images/vivobts2/vivobts.jpg",
+      src: "/assets/images/vivobts2/vivobts.jpg",
       alt: "Behind the scenes filming"
     },
     {
       id: 2,
-      src: "/src/assets/images/vivobts2/vivobts1.jpg",
+      src: "/assets/images/vivobts2/vivobts1.jpg",
       alt: "Camera equipment setup"
     },
     {
       id: 3,
-      src: "/src/assets/images/vivobts2/vivobts4.jpg",
+      src: "/assets/images/vivobts2/vivobts4.jpg",
       alt: "Film production"
     },
     {
       id: 4,
-      src: "/src/assets/images/vivobts2/vivobts5.jpg",
+      src: "/assets/images/vivobts2/vivobts5.jpg",
       alt: "Director at work"
     },
     {
       id: 5,
-      src: "/src/assets/images/vivobts2/vivobts6.jpg",
+      src: "/assets/images/vivobts2/vivobts6.jpg",
       alt: "Film crew working"
     },
     {
       id: 6,
-      src: "/src/assets/images/vivobts2/vivobts3.jpg",
+      src: "/assets/images/vivobts2/vivobts3.jpg",
       alt: "Beach filming location"
     },
     {
       id: 7,
-      src: "/src/assets/images/vivobts2/vivobts2.jpg",
+      src: "/assets/images/vivobts2/vivobts2.jpg",
       alt: "Professional camera work"
     }
   ];

@@ -9,7 +9,7 @@ const AboutMePage = ( ) => {
     <>
       <div className="bg-black">
         <div className="fixed inset-0 z-0 bg-cover bg-center bg-no-repeat" 
-        style={{ backgroundImage: "url('/src/assets/images/006.png')" }}>
+        style={{ backgroundImage: "url('/assets/images/006.png')" }}>
         </div>
       
         <Profile/>

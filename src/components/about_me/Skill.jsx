@@ -51,12 +51,12 @@ const Skills = () => {
         {/* Visual: Right Column */}
 
         <div className="grid grid-cols-1 items-end justify-center">
-          <img src="src/assets/images/arri.png" alt="camera" className="w-100"/>
-          <img src="src/assets/images/aputure.png" alt="camera" className="w-100" />
-          <img src="src/assets/images/software/davinci.png" alt="camera" className="w-70"/>
-          <img src="src/assets/images/finaldraft1.png" alt="camera" className="w-70"/>
-          <img src="src/assets/images/lightfloor.png" alt="camera" className="w-100 rounded-2xl"/>
-          <img src="src/assets/images/djidrone.png" alt="camera" className="w-200"/>
+          <img src="/assets/images/arri.png" alt="camera" className="w-100"/>
+          <img src="/assets/images/aputure.png" alt="camera" className="w-100" />
+          <img src="/assets/images/software/davinci.png" alt="camera" className="w-70"/>
+          <img src="/assets/images/finaldraft1.png" alt="camera" className="w-70"/>
+          <img src="/assets/images/lightfloor.png" alt="camera" className="w-100 rounded-2xl"/>
+          <img src="/assets/images/djidrone.png" alt="camera" className="w-200"/>
           
         </div>
 

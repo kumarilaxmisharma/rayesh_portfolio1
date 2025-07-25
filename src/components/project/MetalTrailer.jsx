@@ -7,13 +7,13 @@ const MetalTrailer = () => {
         {/* <h1 className="text-4xl font-bold mb-4 text-gray-800 ">ShowReel Video</h1> */}
         <video 
 
-          src='/src/assets/videos/Metal Strings Trailer.mp4'
+          src='/assets/videos/Metal Strings Trailer.mp4'
           autoPlay={true}
           loop={true}
           muted={true}
           playsInline={true}
           preload="auto"
-          poster="/src/assets/images/mentaldetail/thumbnail.png"
+          poster="/assets/images/mentaldetail/thumbnail.png"
           className="w-full max-full rounded-lg shadow-lg"
         />
       </div>

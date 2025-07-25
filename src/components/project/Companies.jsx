@@ -17,13 +17,13 @@ const Companies = () => {
 
         {/* Company Logos  */}
         <div className="flex flex-wrap justify-center items-center gap-x-6 gap-y-1 opacity-80 max-h-[180px] overflow-hidden">
-          <img src="/src/assets/images/companies/vivo1.png" alt="Client 1" className="w-20 h-20 object-contain m-1" />
-          <img src="/src/assets/images/companies/8teen1.png" alt="Client 2" className="w-20 h-20 object-contain m-1" />
-          <img src="/src/assets/images/companies/3bakery1.png" alt="Client 3" className="w-20 h-20 object-contain m-1" />
-          <img src="/src/assets/images/companies/sinhan1.png" alt="Client 4" className="w-20 h-20 object-contain m-1" />
-          <img src="/src/assets/images/companies/sony.png" alt="Client 5" className="w-20 h-20 object-contain m-1" />
-          <img src="/src/assets/images/companies/anti-archive.png" alt="Client 6" className="w-20 h-20 object-contain m-1" />
-          <img src="/src/assets/images/companies/aputure.png" alt="Client 7" className="w-20 h-20 object-contain m-1" />
+          <img src="/assets/images/companies/vivo1.png" alt="Client 1" className="w-20 h-20 object-contain m-1" />
+          <img src="/assets/images/companies/8teen1.png" alt="Client 2" className="w-20 h-20 object-contain m-1" />
+          <img src="/assets/images/companies/3bakery1.png" alt="Client 3" className="w-20 h-20 object-contain m-1" />
+          <img src="/assets/images/companies/sinhan1.png" alt="Client 4" className="w-20 h-20 object-contain m-1" />
+          <img src="/assets/images/companies/sony.png" alt="Client 5" className="w-20 h-20 object-contain m-1" />
+          <img src="/assets/images/companies/anti-archive.png" alt="Client 6" className="w-20 h-20 object-contain m-1" />
+          <img src="/assets/images/companies/aputure.png" alt="Client 7" className="w-20 h-20 object-contain m-1" />
         </div>
 
         
@@ -35,7 +35,7 @@ const Companies = () => {
 
       {/*Image */}
       <div className="grid grid-cols-1 justify-end items-center h-screen relative z-10">
-        <img src="src/assets/images/rayesh.png" alt="rayesh image" />
+        <img src="/assets/images/rayesh.png" alt="rayesh image" />
       </div>
 
     </div>

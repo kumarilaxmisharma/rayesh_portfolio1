@@ -22,7 +22,7 @@ const ProjectsPage = () => {
     <div className="w-full bg-black min-h-screen px-16 pt-32">
       {/* Background image */}
       <div className="fixed inset-0 z-0 bg-cover bg-center bg-no-repeat" 
-        style={{ backgroundImage: "url('/src/assets/images/006.png')" }}>
+        style={{ backgroundImage: "url('/assets/images/006.png')" }}>
       </div>
       
       //Sinhan Bank
